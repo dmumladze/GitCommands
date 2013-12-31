@@ -2,4 +2,12 @@ git init --- initializes git repository
 
 git add *.txt --- stages all *.txt file
 
-git commit -m "initial commit" --- commits to repository
+git commit -m "initial commit" --- commits to repository 
+
+git stash --- stashes changes (changes gone)
+
+git stash apply --- gets the stashed stuff
+
+git checkout "filename.txt" --- undo changes on filename.txt
+
+git commit --ammend
