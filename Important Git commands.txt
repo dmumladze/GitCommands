@@ -1,1 +1,5 @@
-git init - initializes git repository
+git init --- initializes git repository
+
+git add *.txt --- stages all *.txt file
+
+git commit -m "initial commit" --- commits to repository
