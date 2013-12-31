@@ -10,4 +10,8 @@ git stash apply --- gets the stashed stuff
 
 git checkout "filename.txt" --- undo changes on filename.txt
 
-git commit --ammend
+git commit --ammend --- amended change
+
+git log 467b7c3ccf870c7669a4012fc9ecb95229090498 --- changeset details
+
+git tag -a v1.0 -m "my tag gone kukuuuu" --- tagging the changeset
