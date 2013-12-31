@@ -15,3 +15,7 @@ git commit --ammend --- amended change
 git log 467b7c3ccf870c7669a4012fc9ecb95229090498 --- changeset details
 
 git tag -a v1.0 -m "my tag gone kukuuuu" --- tagging the changeset
+
+git branch v2.0 --- creates a new branch
+
+git checkout v2.0 --- switches command-line to a branch so that all operations will be on a new branch.
