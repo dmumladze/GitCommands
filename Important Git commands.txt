@@ -21,3 +21,11 @@ git branch v2.0 --- creates a new branch
 git checkout v2.0 --- switches command-line to a branch so that all operations will be on a new branch.
 
 git checkout master --- switch to the master branch.
+
+git mergetool --- merges changes automatically or via tool.
+
+git remote add origin https://github.com/August2008/GitCommands.git --- estabilish connection
+
+git push -u origin master --- push changes to github.
+
+git pull --- pulls from the remote branch.
