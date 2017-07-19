@@ -1,3 +1,9 @@
+git config --global user.name "David Mumladze"
+
+git config --global user.email "davidlars99@gmail.com"
+
+git pull origin master --- pull from master branch
+
 git init --- initializes git repository
 
 git add *.txt --- stages all *.txt file
