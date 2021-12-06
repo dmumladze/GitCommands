@@ -35,3 +35,7 @@ git remote add origin https://github.com/August2008/GitCommands.git --- estabili
 git push -u origin master --- push changes to github.
 
 git pull --- pulls from the remote branch.
+
+git branch --unset-upstream ---unsets upstream branch
+
+git push --set-upstream origin new-branch-name ---set new branch name 
